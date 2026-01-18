@@ -23,4 +23,27 @@ These `HIM` commands are explained in `C++`:
 
 **`hehe`** `int v; cin>>v; mem[p]=v;`
 
-**`hahaha`** `Set loop variable to current value`
+**`hahaha`** Set loop variable to current value (`i=mem[p];`)
+
+**`ho`** Start of a loop
+
+**`hohoho`** End of a loop. While `i!=0`, go to the previous `ho` position and `--i;`.
+
+Ignore all characters except for those keywords above. (So you can write a HIM program in the middle of anything)
+## Example
+| Code | Input | Output |
+| --- | --- | --- |
+| `ha ha ha haha` | | 3 |
+| `ha ha ha hahaha hah ho ha ha hoho haha` | | 6 |
+| `hehe haha hahe` | 65 | 65 A |
+## Compiler
+Download `him.exe` to compile your HIM program!
+
+`him.cpp` is the source code of `him.exe`.
+
+Enjoy programing and let your mind full of laughter!!!
+## Simple HIM Program
+`hellohim.txt`: Hello, HIM!
+More HIM programs are coming soon...
+___
+Developed by zhujingqi
