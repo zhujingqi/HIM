@@ -45,7 +45,8 @@ Enjoy programing and let your mind full of laughter!!!
 ## Extra
 Useful tool: Use `textmaker.exe` to generate code that can output custom strings in the HIM language
 
-Ai generated article: `Why HIM (Haha In Mind) Is a Serious Programming Language.md`
+AI generated article: `Why HIM (Haha In Mind) Is a Serious Programming Language.md`
+AI generated article: `Proof of Turing-Completeness for HIM (Haha In Mind)` 
 ## Simple HIM Program
 `hellohim.txt`: Hello, HIM!
 More HIM programs are coming soon...
