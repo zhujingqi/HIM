@@ -42,6 +42,8 @@ Download `him.exe` to compile your HIM program!
 `him.cpp` is the source code of `him.exe`.
 
 Enjoy programing and let your mind full of laughter!!!
+## Extra Tool
+Use `textmaker.exe` to generate code that can output custom strings in the HIM language
 ## Simple HIM Program
 `hellohim.txt`: Hello, HIM!
 More HIM programs are coming soon...
