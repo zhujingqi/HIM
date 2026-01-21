@@ -58,6 +58,8 @@ AI generated article: `Proof of Turing-Completeness for HIM (Haha In Mind)`
 
 `ifelse.txt`: `cin>>a; if(a==0) cout<<0; else cout<<1;`
 
+`ifn=3.txt`: Judge if n==3
+
 More HIM programs are coming soon...
 ___
 Developed by zhujingqi
