@@ -2,8 +2,8 @@
 ## Introduction
 **HIM, a simple coding language called Haha In Mind**
 
-It only has 10 commands:
-`ha he hah heh haha hahe hehe hahaha ho hoho`
+It only has 12 commands:
+`ha he hah heh haha hahe hehe hahaha ho hoho hu huhu`
 
 Therefore, it's extremely easy to learn, but using it to write programs is extremely difficult (you'll understand later)
 ## Syntax
