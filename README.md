@@ -27,7 +27,7 @@ These `HIM` commands are explained in `C++`:
 
 **`ho`** Start of a loop
 
-**`hohoho`** End of a loop. While `i!=0`, go to the previous `ho` position and `--i;`.
+**`hoho`** End of a loop. While `i!=0`, go to the previous `ho` position and `--i;`.
 
 **`hu`** `if(mem[p]==0)` then run codes between `hu` and `huhu`.
 
