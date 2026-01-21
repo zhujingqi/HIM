@@ -17,6 +17,9 @@ int main()
         p=t;
     }
     cout<<endl;
+    cout<<"\nPress Enter to exit...";
+    cin.get();
+	cin.get();
     return 0;
 }
 
